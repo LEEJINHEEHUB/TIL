@@ -6,3 +6,6 @@
 
 
 ![unnamed](README.assets/unnamed.jpg)
+
+강의장에서 작성한 텍스트입니다.
+
